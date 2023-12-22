@@ -61,7 +61,7 @@ class GetStartScreen extends StatelessWidget {
                     MaterialPageRoute(builder: (context) => HomeScreen()));
               },
               child: Container(
-                height: 57,
+                height: 56,
                 width: 300,
                 child: Row(
                   children: [
